@@ -2,7 +2,7 @@
 
 ## Contributors:
 
-- Kaleb-cpu
-- rashidhayato
-- cordellec
-- SidneyLemon
+- @Kaleb-cpu
+- @rashidhayato
+- @cordellec
+- @SidneyLemon
