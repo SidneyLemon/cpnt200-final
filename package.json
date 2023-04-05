@@ -15,6 +15,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"chart.js": "^4.2.1"
+		"chart.js": "^4.2.1",
+		"svelte-chartjs": "^3.1.2"
 	}
 }

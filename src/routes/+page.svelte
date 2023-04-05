@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  import { Line } from 'svelte-chartjs'
+</script>
+
+<Line
+  data={ [65, 59, 80, 81, 56, 55, 40]}
+  width={100}
+  height={50}
+  options={{ maintainAspectRatio: false }}
+/>
