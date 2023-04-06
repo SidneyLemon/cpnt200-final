@@ -2,9 +2,15 @@
   import "./app.css";
 </script>
 
-<nav>
-  <li>  <a href="/">Home</a> </li>
-  <li> <a href="/billionaires">Billionaires</a> </li>
-  <li> <a href="/chart">Chart</a> </li>
-</nav>
+<header>
+  <h1>Final Group Project - Open Data Implementation</h1>
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="/billionaires">Billionaires</a>
+    <a href="/chart">Chart</a>
+  </nav>
+</header>
+<footer>&copy;2023</footer>
+
 <slot />
