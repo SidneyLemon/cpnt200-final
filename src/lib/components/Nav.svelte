@@ -1,5 +1,5 @@
 <nav>
-	<a href="/">Home</a>
-	<a href="/billionaires">Billionaires</a>
-	<a href="/chart">Chart</a>
+	 <li> <a href="/">Home</a> </li>
+	 <li> <a href="/billionaires">Billionaires</a> </li>
+	 <li> <a href="/chart">Chart</a>  </li>
 </nav>
