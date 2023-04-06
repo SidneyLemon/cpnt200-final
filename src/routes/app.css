@@ -1,0 +1,48 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    font-size: 15px;
+    text-align:center;
+    color: black;
+}
+
+body {
+  background: linear-gradient(to right, #ffffff, #b0cadb, #295b7c);
+  display:flex;
+  padding-top: 150px; 
+  padding-bottom: 50px
+}
+
+nav {
+  margin:auto;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  text-align: center;
+  padding: 1px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  padding: 1em;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+  
+}
+
+footer {
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+

@@ -1,5 +1,5 @@
 export const data = {
-  labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+  labels: ['Elon Musk', 'Jeff Bezos', 'Bernard Arnault', 'Bill Gates', 'Warren Buffett', ' Larry Page', 'Sergey Brin', "Larry Ellison", "Steve Ballmer", "Mukesh Ambani"],
   datasets: [
     {
       label: 'Top 10 Country with the richest man dataset',
@@ -22,7 +22,7 @@ export const data = {
       pointHitRadius: 10,
 
 
-      data: [10, 59, 80, 81, 56, 55, 40],
+      data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ],
     },
 
 

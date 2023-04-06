@@ -21,4 +21,3 @@ let { data, error } = await supabase.from("billionaire").select(`
 
 
 
-

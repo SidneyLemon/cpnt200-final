@@ -1,11 +1,11 @@
 <script>
   export let data;
   let { billionaire } = data;
-  console.log(data)
+  console.log(data);
 </script>
 
-<h1>Billionaires</h1>
 <ul>
+  <h1>Billionaires:</h1>
   {#each billionaire as billionaire}
     <a href="/billionaires/{billionaire.id}">
     <ul>
