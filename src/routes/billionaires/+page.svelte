@@ -7,6 +7,7 @@
 <h1>Billionaires</h1>
 <ul>
   {#each billionaire as billionaire}
+    <a href="/billionaires/{billionaire.id}">
     <ul>
       {billionaire.id}:
       {billionaire.name},
@@ -14,5 +15,6 @@
       {billionaire.country.country_name},
       {billionaire.industry.industry_name}
     </ul>
+  </a>
   {/each}
 </ul>
