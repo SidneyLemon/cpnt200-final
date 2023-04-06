@@ -1,6 +1,8 @@
 ## CPNT 200 - Final Group Project: Open Data Implementation
 
-Live Site:
+Live Site: https://cpnt200-final-fpvmfd3ym-sidneylemon.vercel.app/
+
+Google Database: https://docs.google.com/spreadsheets/d/1pi82UAVYrPhA3jHrXpsAKCj2JbFII4GXVgapsajrcGQ/edit#gid=0
 
 ## Project Contributors:
 

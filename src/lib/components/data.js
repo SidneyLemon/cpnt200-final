@@ -2,7 +2,7 @@ export const data = {
   labels: ['Elon Musk', 'Jeff Bezos', 'Bernard Arnault', 'Bill Gates', 'Warren Buffett', ' Larry Page', 'Sergey Brin', "Larry Ellison", "Steve Ballmer", "Mukesh Ambani"],
   datasets: [
     {
-      label: 'Top 10 Country with the richest man dataset',
+      label: 'Top 10 richest men with their age dataset. ranking 1-10' , 
       fill: true,
       lineTension: 0.3,
       backgroundColor: 'rgba(225, 204,230, .3)',
@@ -22,7 +22,7 @@ export const data = {
       pointHitRadius: 10,
 
 
-      data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ],
+      data: [50, 58, 73, 66, 91, 49, 48, 77, 66, 64, ],
     },
 
 

@@ -5,3 +5,11 @@
 <main>
   <Chart />
 </main>
+
+<style>
+  main {
+    width: 800px;
+    height: 300px;
+    padding: 5rem;
+  }
+</style>
