@@ -1,12 +1,18 @@
 <script>
-  import { Line } from 'svelte-chartjs'
-</script>
-
-<Line
-  data={ [65, 59, 80, 81, 56, 55, 40]}
-  width={100}
-  height={50}
-  options={{ maintainAspectRatio: false }}
-/>
-
-
+    export let data;
+    let { billionaire } = data;
+    console.log(data);
+  </script>
+  
+  <h1>Billionaires</h1>
+  <ul>
+    {#each billionaire as billionaire}
+      <ul>
+        {billionaire.id}:
+        {billionaire.name},
+        {billionaire.age},
+        {billionaire.country_name},
+        {billionaire.industry_name}
+      </ul>
+    {/each}
+  </ul>
