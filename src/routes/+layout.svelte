@@ -1,6 +1,10 @@
 <script>
-  import Nav from '$lib/components/Nav.svelte';
+  import "./app.css";
 </script>
 
-<Nav />
+<nav>
+  <a href="/">Home</a>
+  <a href="/billionaires">Billionaires</a>
+  <a href="/chart">Chart</a>
+</nav>
 <slot />

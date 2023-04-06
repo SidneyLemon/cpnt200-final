@@ -1,5 +1,5 @@
-<script>
+<!-- <script>
   export let data;
 </script>
 
-<section />
+<section /> -->
