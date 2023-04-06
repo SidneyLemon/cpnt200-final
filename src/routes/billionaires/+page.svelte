@@ -11,8 +11,8 @@
       {billionaire.id}:
       {billionaire.name},
       {billionaire.age},
-      {billionaire.country_name},
-      {billionaire.industry_name}
+      {billionaire.country.country_name},
+      {billionaire.industry.industry_name}
     </ul>
   {/each}
 </ul>
