@@ -5,7 +5,7 @@
   </script>
   
   <h1>Billionaires</h1>
-  <ul>
+  <!-- <ul>
     {#each billionaire as billionaire}
       <ul>
         {billionaire.id}:
@@ -15,4 +15,4 @@
         {billionaire.industry_name}
       </ul>
     {/each}
-  </ul>
+  </ul> -->
